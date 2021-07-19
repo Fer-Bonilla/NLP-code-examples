@@ -1,6 +1,7 @@
 # NLP code examples
 
-Different NLP task implementation 
+Notebooks with implementation for most common NLP problems.
+
 
 # Topics analysis 
 
